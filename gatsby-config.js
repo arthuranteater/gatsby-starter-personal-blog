@@ -216,9 +216,8 @@ module.exports = {
         ]
       }
     },
-    {
-      resolve: `gatsby-plugin-sitemap`
-    },
+    `gatsby-plugin-sitemap`
+    ,
     {
       resolve: "gatsby-plugin-react-svg",
       options: {
